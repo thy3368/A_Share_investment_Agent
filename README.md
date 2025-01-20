@@ -54,6 +54,9 @@ cd A_Share_investent_Agent
 curl -sSL https://install.python-poetry.org | python3 -
 ```
 
+ln -s -f /opt/homebrew/bin/python3 /usr/local/bin/python
+
+
 2. Install dependencies:
 
 ```bash
